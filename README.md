@@ -96,10 +96,6 @@ Located in .github/workflows/.
 🛡️ Monitoring
 Health check route: /healthz
 
-Tools: helmet, morgan, uptime monitoring enabled
-
-📸 Screenshots
-
 
 🙌 Author
 👑 Joseph Onyango (Prince Lailan)
